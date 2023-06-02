@@ -4,3 +4,4 @@
 4, hiding profile picture
 
 5, To allow video call
+6.Add some stickers
