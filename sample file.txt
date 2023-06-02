@@ -1,3 +1,6 @@
 1, login 
 2, chat option
 3, view status
+4, hiding profile picture
+
+5, To allow video call
